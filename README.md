@@ -10,12 +10,15 @@ The report contains the name of the job found, the name of the company and the U
 - Clone this project and open it using IntelliJ IDE (since this project was made using this IDE)
 - Go to the following project path: FindJobsInCostaRicaAutomation > config
 - Open data.properties file and on the line that says 'jobName' you can put the name of the job you are searching for after the '=' character
+
   <img width="649" alt="image" src="https://github.com/Erick-Salas/FindJobsInCostaRicaAutomation/assets/63444171/e3a177a8-c655-4966-adc6-da026da7b9c7">
-- Go to the following project path: FindJobsInCostaRicaAutomation > src > test > resources
-- Rigth click on suite.xml file then click on Run option
-  <img width="388" alt="image" src="https://github.com/Erick-Salas/FindJobsInCostaRicaAutomation/assets/63444171/35a5d918-1a01-4d09-97f5-f8d5106ab642">
-- The automations will start to run to search the job name in different job websites from Costa Rica, wait until the automations finish.
   
+- Go to the following project path: FindJobsInCostaRicaAutomation > src > test > resources
+- Rigth click on suite.xml file then click on Run option.
+
+  <img width="388" alt="image" src="https://github.com/Erick-Salas/FindJobsInCostaRicaAutomation/assets/63444171/35a5d918-1a01-4d09-97f5-f8d5106ab642">
+
+- The automations will start to run to search the job name in different job websites from Costa Rica, wait until the automations finish.
 - Once the web automations have finished, go to the following project path: FindJobsInCostaRicaAutomation > html_report
 - Here you will find a HTML file with all the information called 'report', you can open it with right click then click on > Open In > Browser > Chrome
   
