@@ -24,8 +24,11 @@ The report contains the name of the job found, the name of the company and the U
   
 # Important Notes:
 - These automations need the Google Chrome web browser to be able to run, it must be installed in your computer.
-- The chromedriver.exe file must be updated accordingly to the version of your Chrome browser. You can download the chromedriver.exe from this website: https://googlechromelabs.github.io/chrome-for-testing/. To know what version you need to download you can open your Chrome browser, go to Help > About Google Chrome. Once the chromedriver.exe is downloaded you need to placed it in the following project path: FindJobsInCostaRicaAutomation > web_driver > chrome_driver.  
+
+- The chromedriver.exe file must be updated accordingly to the version of your Chrome browser. You can download the chromedriver.exe from this website: https://googlechromelabs.github.io/chrome-for-testing/. To know what version you need to download you can open your Chrome browser, go to Help > About Google Chrome. Once the chromedriver.exe is downloaded you need to placed it in the following project path: FindJobsInCostaRicaAutomation > web_driver > chrome_driver.
+
 - To be able to run all the automations effectively you should close all Google Chrome windows before running the automations.
+
 - The Costa Rica jobsites used for these automations are:
   - https://acciontrabajo.co.cr/
   - https://www.buscojobs.cr/
@@ -35,8 +38,11 @@ The report contains the name of the job found, the name of the company and the U
   - https://www.opcionempleo.co.cr/
   - https://www.tecoloco.co.cr/
   - https://www.linkedin.com/feed/
+
 - To run the LinkedIn automation effectively you must first login with your account after running the automation. When the automation opens the website link, it must enter your LinkedIn session.
+
 - The automations can fail if the user interface of the websites were modified, normally for UI automations is necessary maintenance of the automation scripts when this happens.
+
 - If the automations fail can be because the chromedriver.exe is not updated or because the websites were modified.
 
 # Technologies used:
