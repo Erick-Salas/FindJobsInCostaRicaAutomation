@@ -1,0 +1,45 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" verbose="1" parallel="none">
+    <test name="acciontrabajo_page">
+        <parameter name="type" value="TEST"></parameter>
+        <parameter name="browser" value="CHROME"></parameter>
+        <classes>
+            <class name="UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest"></class>
+        </classes>
+    </test>
+    <test name="buscojobs_page">
+        <classes>
+            <class name="UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest"></class>
+        </classes>
+    </test>
+    <test name="elempleo_page">
+        <classes>
+            <class name="UiWebAutomations.jobs_websites.elempleo.JobSearchInElempleoWebPageTest"></class>
+        </classes>
+    </test>
+    <test name="indeed_page">
+        <classes>
+            <class name="UiWebAutomations.jobs_websites.indeed.JobSearchInIndeedWebPageTest"></class>
+        </classes>
+    </test>
+    <test name="jooble_page">
+        <classes>
+            <class name="UiWebAutomations.jobs_websites.jooble.JobSearchInJoobleWebPageTest"></class>
+        </classes>
+    </test>
+    <test name="linkedin_page">
+        <classes>
+            <class name="UiWebAutomations.jobs_websites.linkedin.JobSearchInLinkedinWebPageTest"></class>
+        </classes>
+    </test>
+    <test name="opcionempleo_page">
+        <classes>
+            <class name="UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest"></class>
+        </classes>
+    </test>
+    <test name="tecoloco_page">
+        <classes>
+            <class name="UiWebAutomations.jobs_websites.tecoloco.JobSearchInTecolocoWebPageTest"></class>
+        </classes>
+    </test>
+</suite>
