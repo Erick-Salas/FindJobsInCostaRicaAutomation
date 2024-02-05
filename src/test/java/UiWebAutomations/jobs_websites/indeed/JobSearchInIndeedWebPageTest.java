@@ -32,7 +32,7 @@ public class JobSearchInIndeedWebPageTest extends BaseTest {
         List<String> listOfJobs = indeedPage.getAllTheJobsForEveryPageOfPagination(getProperty("jobName"));
 
         for (String job: listOfJobs){
-            logger.info("---"+job);
+            logger.info(job);
         }
 
         LogManager.shutdown();
