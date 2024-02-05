@@ -19,8 +19,15 @@ The report contains the name of the job found, the name of the company and the U
   <img width="388" alt="image" src="https://github.com/Erick-Salas/FindJobsInCostaRicaAutomation/assets/63444171/35a5d918-1a01-4d09-97f5-f8d5106ab642">
 
 - The automations will start to run to search the job name in different job websites from Costa Rica, wait until the automations finish.
+  
+  ![automations running](https://github.com/Erick-Salas/FindJobsInCostaRicaAutomation/assets/63444171/057aadea-1834-42f2-9c25-2c92b8b458c3)
+
 - Once the web automations have finished, go to the following project path: FindJobsInCostaRicaAutomation > html_report
 - Here you will find a HTML file with all the information called 'report', you can open it with right click then click on > Open In > Browser > Chrome
+
+  ![report](https://github.com/Erick-Salas/FindJobsInCostaRicaAutomation/assets/63444171/c743640f-bcf3-428d-8fb8-196ff8edfaaa)
+
+  
   
 # Important Notes:
 - These automations need the Google Chrome web browser to be able to run, it must be installed in your computer.
@@ -44,6 +51,10 @@ The report contains the name of the job found, the name of the company and the U
 - The automations can fail if the user interface of the websites were modified, normally for UI automations is necessary maintenance of the automation scripts when this happens.
 
 - If the automations fail can be because the chromedriver.exe is not updated or because the websites were modified.
+
+- If your are using a different path to store the Default folder of Chrome, that can cause that LinkedIn automation fail (normally you can find it here: C:\Users\{your_user}\AppData\Local\Google\Chrome\User Data\)
+
+- These automations were tested using Windows OS.
 
 # Technologies used:
 - Java
