@@ -1,299 +1,614 @@
-2024-02-04 15:46:09.046 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - Page: https://acciontrabajo.co.cr/
-2024-02-04 15:46:13.555 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - Job name searched: qa
-2024-02-04 15:47:11.968 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa specialist
-2024-02-04 15:47:11.968 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - chronos consulting
-2024-02-04 15:47:11.968 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-specialist-san-jose-san-jose-cbaac
-2024-02-04 15:47:11.979 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - analista qa automation
-2024-02-04 15:47:11.979 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - hr algoritmo
-2024-02-04 15:47:11.979 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-analista-qa-automation-heredia-heredia-oibao
-2024-02-04 15:47:11.979 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa engineer
-2024-02-04 15:47:11.979 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - latitudes
-2024-02-04 15:47:11.979 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-engineer-san-jose-san-jose-dgudb
-2024-02-04 15:47:11.979 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa engineer (3 posiciones disponibles)
-2024-02-04 15:47:11.979 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - testing software
-2024-02-04 15:47:11.979 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-engineer-3-posiciones-disponibles-cartago-cartago-difda
-2024-02-04 15:47:11.979 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa
-2024-02-04 15:47:11.979 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - trs
-2024-02-04 15:47:11.979 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-costa-rica-teletrabajo-oaduo
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa ingeniero en sistemas
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - trs
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-ingeniero-sistemas-heredia-alajuela-dgdao
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa analyst
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - search consultores
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-analyst-heredia-heredia-duoua
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa engineer
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - testing software
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-engineer-cartago-cartago-dogii
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - analista en qa
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - sysco consultores de sistemas s.a
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-analista-qa-sabana-este-san-jose-duaau
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa automation engineer
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - indecomm global services
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-automation-engineer-la-aurora-heredia-doogf
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa engineer
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - tecno carrocerías ebenezer
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-engineer-remoto-heredia-doici
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa specialist
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - corporación fintec
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-specialist-costa-rica-san-jose-dccgg
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - functional qa tester
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - first factory
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-functional-qa-tester-heredia-heredia-dbeiu
-2024-02-04 15:47:11.980 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa automation engineer
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - equifax
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-automation-engineer-heredia-heredia-daigg
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa lead
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - feuji inc.
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-lead-heredia-heredia-daedg
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa junior-mid engineer.
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - beenverified
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-junior-mid-engineer-san-jose-san-jose-daaui
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - development qa
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - global alliance services cr
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-development-qa-san-pedro-san-jose-ioedf
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - senior creative qa
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - prodigious
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-senior-creative-qa-belen-heredia-icuuf
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa automation engineer
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - indecomm global services
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-automation-engineer-la-aurora-heredia-doogf
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa engineer
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - tecno carrocerías ebenezer
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-engineer-remoto-heredia-doici
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa specialist
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - corporación fintec
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-specialist-costa-rica-san-jose-dccgg
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - functional qa tester
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - first factory
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-functional-qa-tester-heredia-heredia-dbeiu
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa automation engineer
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - equifax
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-automation-engineer-heredia-heredia-daigg
-2024-02-04 15:47:11.981 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa lead
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - feuji inc.
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-lead-heredia-heredia-daedg
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa junior-mid engineer.
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - beenverified
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-junior-mid-engineer-san-jose-san-jose-daaui
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - development qa
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - global alliance services cr
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-development-qa-san-pedro-san-jose-ioedf
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - senior creative qa
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - prodigious
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-senior-creative-qa-belen-heredia-icuuf
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - sr. software functional qa analyst
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - prodigious
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-sr-software-functional-qa-analyst-belen-heredia-icfci
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - sr. software functional qa analyst
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - prodigious
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-sr-software-functional-qa-analyst-belen-heredia-icfcd
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester lead
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - accenture
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-lead-aeropuerto-san-jose-ibgcf
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - accenture
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-san-jose-san-jose-ibgcu
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - tester qa
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - softtek
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-tester-qa-flores-heredia-iagfd
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa analyst - heredia
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - praxis
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-analyst-heredia-heredia-heredia-cgfic
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester engineer
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - softtek
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-engineer-flores-heredia-cgoib
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa automation engineer
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - avantica san carlos
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-automation-engineer-san-carlos-alajuela-cgicu
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - automation software tester qa
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - infotree global solutions
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-automation-software-tester-qa-belen-heredia-cuicf
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - infotree global solutions
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-belen-heredia-cubec
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - infotree global solutions
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-belen-heredia-cfggb
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - pasantía de qa
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - 77 digital
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-pasantia-de-qa-tibas-san-jose-cfuod
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - tester qa automation
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - infotree global solutions
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-tester-qa-automation-belen-heredia-cfgbo
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - software qa engineer - automation
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - prodigious
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-software-qa-engineer-automation-belen-heredia-cfgeb
-2024-02-04 15:47:11.982 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester automation sr.
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - infotree global solutions
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-automation-sr-belen-heredia-cffaf
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa automation engineer 1-2 years of experience
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - cr it recruitment
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-automation-engineer-1-2-years-of-experience-zapote-san-jose-cdifg
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - software tester qa
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - accenture
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-software-tester-qa-plaza-bratsi-heredia-ecici
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa senior
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - avantica technologies
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-senior-los-yoses-san-pedro-san-jose-cbbbu
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - sr. software functional qa analyst
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - prodigious
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-sr-software-functional-qa-analyst-belen-heredia-icfci
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - sr. software functional qa analyst
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - prodigious
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-sr-software-functional-qa-analyst-belen-heredia-icfcd
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester lead
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - accenture
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-lead-aeropuerto-san-jose-ibgcf
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - accenture
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-san-jose-san-jose-ibgcu
-2024-02-04 15:47:11.984 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - tester qa
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - softtek
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-tester-qa-flores-heredia-iagfd
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa analyst - heredia
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - praxis
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-analyst-heredia-heredia-heredia-cgfic
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester engineer
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - softtek
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-engineer-flores-heredia-cgoib
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa automation engineer
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - avantica san carlos
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-automation-engineer-san-carlos-alajuela-cgicu
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - automation software tester qa
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - infotree global solutions
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-automation-software-tester-qa-belen-heredia-cuicf
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - infotree global solutions
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-belen-heredia-cubec
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - infotree global solutions
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-belen-heredia-cfggb
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - pasantía de qa
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - 77 digital
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-pasantia-de-qa-tibas-san-jose-cfuod
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - tester qa automation
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - infotree global solutions
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-tester-qa-automation-belen-heredia-cfgbo
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - software qa engineer - automation
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - prodigious
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-software-qa-engineer-automation-belen-heredia-cfgeb
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester automation sr.
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - infotree global solutions
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-automation-sr-belen-heredia-cffaf
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa automation engineer 1-2 years of experience
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - cr it recruitment
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-automation-engineer-1-2-years-of-experience-zapote-san-jose-cdifg
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - software tester qa
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - accenture
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-software-tester-qa-plaza-bratsi-heredia-ecici
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa senior
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - avantica technologies
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-senior-los-yoses-san-pedro-san-jose-cbbbu
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - sr. software functional qa analyst
-2024-02-04 15:47:11.985 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - prodigious
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-sr-software-functional-qa-analyst-belen-heredia-icfci
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - sr. software functional qa analyst
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - prodigious
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-sr-software-functional-qa-analyst-belen-heredia-icfcd
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester lead
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - accenture
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-lead-aeropuerto-san-jose-ibgcf
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - accenture
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-san-jose-san-jose-ibgcu
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - tester qa
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - softtek
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-tester-qa-flores-heredia-iagfd
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa analyst - heredia
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - praxis
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-analyst-heredia-heredia-heredia-cgfic
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester engineer
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - softtek
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-engineer-flores-heredia-cgoib
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa automation engineer
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - avantica san carlos
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-automation-engineer-san-carlos-alajuela-cgicu
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - automation software tester qa
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - infotree global solutions
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-automation-software-tester-qa-belen-heredia-cuicf
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - infotree global solutions
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-belen-heredia-cubec
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - infotree global solutions
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-belen-heredia-cfggb
-2024-02-04 15:47:11.986 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - pasantía de qa
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - 77 digital
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-pasantia-de-qa-tibas-san-jose-cfuod
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - tester qa automation
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - infotree global solutions
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-tester-qa-automation-belen-heredia-cfgbo
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - software qa engineer - automation
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - prodigious
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-software-qa-engineer-automation-belen-heredia-cfgeb
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester automation sr.
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - infotree global solutions
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-automation-sr-belen-heredia-cffaf
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa automation engineer 1-2 years of experience
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - cr it recruitment
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-automation-engineer-1-2-years-of-experience-zapote-san-jose-cdifg
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - software tester qa
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - accenture
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-software-tester-qa-plaza-bratsi-heredia-ecici
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa senior
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - avantica technologies
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-senior-los-yoses-san-pedro-san-jose-cbbbu
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - sr. software functional qa analyst
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - prodigious
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-sr-software-functional-qa-analyst-belen-heredia-icfci
-2024-02-04 15:47:11.987 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - sr. software functional qa analyst
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - prodigious
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-sr-software-functional-qa-analyst-belen-heredia-icfcd
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester lead
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - accenture
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-lead-aeropuerto-san-jose-ibgcf
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - accenture
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-san-jose-san-jose-ibgcu
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - tester qa
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - softtek
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-tester-qa-flores-heredia-iagfd
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa analyst - heredia
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - praxis
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-analyst-heredia-heredia-heredia-cgfic
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester engineer
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - softtek
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-engineer-flores-heredia-cgoib
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa automation engineer
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - avantica san carlos
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-automation-engineer-san-carlos-alajuela-cgicu
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - automation software tester qa
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - infotree global solutions
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-automation-software-tester-qa-belen-heredia-cuicf
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - infotree global solutions
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-belen-heredia-cubec
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - infotree global solutions
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-belen-heredia-cfggb
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - pasantía de qa
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - 77 digital
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-pasantia-de-qa-tibas-san-jose-cfuod
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - tester qa automation
-2024-02-04 15:47:11.988 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - infotree global solutions
-2024-02-04 15:47:11.989 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-tester-qa-automation-belen-heredia-cfgbo
-2024-02-04 15:47:11.989 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - software qa engineer - automation
-2024-02-04 15:47:11.989 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - prodigious
-2024-02-04 15:47:11.989 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-software-qa-engineer-automation-belen-heredia-cfgeb
-2024-02-04 15:47:11.989 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa tester automation sr.
-2024-02-04 15:47:11.989 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - infotree global solutions
-2024-02-04 15:47:11.989 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-tester-automation-sr-belen-heredia-cffaf
-2024-02-04 15:47:11.989 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa automation engineer 1-2 years of experience
-2024-02-04 15:47:11.989 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - cr it recruitment
-2024-02-04 15:47:11.989 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-automation-engineer-1-2-years-of-experience-zapote-san-jose-cdifg
-2024-02-04 15:47:11.989 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - software tester qa
-2024-02-04 15:47:11.989 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - accenture
-2024-02-04 15:47:11.989 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-software-tester-qa-plaza-bratsi-heredia-ecici
-2024-02-04 15:47:11.989 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - qa senior
-2024-02-04 15:47:11.989 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - avantica technologies
-2024-02-04 15:47:11.989 [main] INFO  UiWebAutomations.jobs_websites.acciontrabajo.JobSearchInAccionTrabajoWebPageTest - https://acciontrabajo.co.cr/empleo-de-qa-senior-los-yoses-san-pedro-san-jose-cbbbu
+2025-07-24 01:18:46.997 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Page: https://www.buscojobs.cr/
+2025-07-24 01:18:47.887 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Job name searched: qa
+2025-07-24 01:22:44.695 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Soporte Técnico Con Experiencia En Qa (Remoto)
+2025-07-24 01:22:44.695 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Smart Swap S.A. - San José, San José
+2025-07-24 01:22:44.695 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/soporte-tecnico-con-experiencia-en-qa-remoto-en-san-jose-ID-1548461
+2025-07-24 01:22:44.696 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Automation
+2025-07-24 01:22:44.696 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.696 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-automation-en-san-jose-ID-1572222
+2025-07-24 01:22:44.696 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Tech Lead Qa (Functional & Automation)
+2025-07-24 01:22:44.696 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.696 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/tech-lead-qa-functional-automation-en-san-jose-ID-1572223
+2025-07-24 01:22:44.696 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Analyst
+2025-07-24 01:22:44.696 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Crg Solutions - San José, San José
+2025-07-24 01:22:44.696 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-analyst-en-san-jose-ID-1572262
+2025-07-24 01:22:44.696 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Agile Software Qa Engineer
+2025-07-24 01:22:44.696 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Hewlett Packard Enterprise - Heredia, Heredia
+2025-07-24 01:22:44.696 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/agile-software-qa-engineer-en-heredia-ID-1572776
+2025-07-24 01:22:44.696 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Mid Qa Engineer
+2025-07-24 01:22:44.696 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - Heredia, Heredia
+2025-07-24 01:22:44.697 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/mid-qa-engineer-en-heredia-ID-1572828
+2025-07-24 01:22:44.697 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Functional Qa Analyst
+2025-07-24 01:22:44.697 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Prodigious - Heredia, Heredia
+2025-07-24 01:22:44.697 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-functional-qa-analyst-en-heredia-ID-1573089
+2025-07-24 01:22:44.697 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Desarrollador De Automatización De Qa
+2025-07-24 01:22:44.697 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Bairesdev - San José, San José
+2025-07-24 01:22:44.697 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/desarrollador-de-automatizacion-de-qa-en-san-jose-ID-1571246
+2025-07-24 01:22:44.697 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Manager / R + D - Remote Work
+2025-07-24 01:22:44.697 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Bairesdev - San José, San José
+2025-07-24 01:22:44.697 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-manager-r-d-remote-work-en-san-jose-ID-1571249
+2025-07-24 01:22:44.697 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Automation Engineer - Remote Work
+2025-07-24 01:22:44.697 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Bairesdev - San José, San José
+2025-07-24 01:22:44.698 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-automation-engineer-remote-work-en-san-jose-ID-1571262
+2025-07-24 01:22:44.698 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation Architect - Remote Work
+2025-07-24 01:22:44.698 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Bairesdev - San José, San José
+2025-07-24 01:22:44.698 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-architect-remote-work-en-san-jose-ID-1571265
+2025-07-24 01:22:44.698 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior De Automatización De Qa / Investigación Y
+2025-07-24 01:22:44.698 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Bairesdev - San José, San José
+2025-07-24 01:22:44.698 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-de-automatizacion-de-qa-investigacion-y-en-san-jose-ID-1571323
+2025-07-24 01:22:44.698 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Analyst Senior / Research + Development - Remote
+2025-07-24 01:22:44.698 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Bairesdev - San José, San José
+2025-07-24 01:22:44.698 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-analyst-senior-research-development-remote-en-san-jose-ID-1571341
+2025-07-24 01:22:44.698 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Analista Desarrollador Senior De Qa - Trabajo Remoto
+2025-07-24 01:22:44.698 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Bairesdev - San José, San José
+2025-07-24 01:22:44.698 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/analista-desarrollador-senior-de-qa-trabajo-remoto-en-san-jose-ID-1571357
+2025-07-24 01:22:44.698 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Analyst Senior - Remote Work
+2025-07-24 01:22:44.698 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Bairesdev - San José, San José
+2025-07-24 01:22:44.698 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-analyst-senior-remote-work-en-san-jose-ID-1571367
+2025-07-24 01:22:44.698 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Analista De Qa Senior / Investigación Y Desarrollo
+2025-07-24 01:22:44.698 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Bairesdev - San José, San José
+2025-07-24 01:22:44.699 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/analista-de-qa-senior-investigacion-y-desarrollo-en-san-jose-ID-1571394
+2025-07-24 01:22:44.699 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation Leader / R + D - Remote Work
+2025-07-24 01:22:44.699 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Bairesdev - San José, San José
+2025-07-24 01:22:44.699 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-leader-r-d-remote-work-en-san-jose-ID-1571402
+2025-07-24 01:22:44.699 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Software Qa Specialist / Research + Development
+2025-07-24 01:22:44.699 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Bairesdev - San José, San José
+2025-07-24 01:22:44.699 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/software-qa-specialist-research-development-en-san-jose-ID-1571416
+2025-07-24 01:22:44.699 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Engineer - Remote Work
+2025-07-24 01:22:44.699 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Bairesdev - San José, San José
+2025-07-24 01:22:44.699 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-engineer-remote-work-en-san-jose-ID-1571417
+2025-07-24 01:22:44.699 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Junior Qa Automation / R + D - Remote Work
+2025-07-24 01:22:44.699 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Bairesdev - San José, San José
+2025-07-24 01:22:44.699 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/junior-qa-automation-r-d-remote-work-en-san-jose-ID-1571431
+2025-07-24 01:22:44.699 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Junior Qa Analyst / R + D - Remote Work
+2025-07-24 01:22:44.699 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Bairesdev - San José, San José
+2025-07-24 01:22:44.699 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/junior-qa-analyst-r-d-remote-work-en-san-jose-ID-1571469
+2025-07-24 01:22:44.700 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Manual Qa / R + D - Remote Work
+2025-07-24 01:22:44.700 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Bairesdev - San José, San José
+2025-07-24 01:22:44.700 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/manual-qa-r-d-remote-work-en-san-jose-ID-1571476
+2025-07-24 01:22:44.700 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Tester
+2025-07-24 01:22:44.700 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Edify Software Consulting - Alajuela, Alajuela
+2025-07-24 01:22:44.700 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-tester-en-alajuela-ID-1571537
+2025-07-24 01:22:44.700 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Functional Qa Analyst
+2025-07-24 01:22:44.700 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Prodigious - San José, San José
+2025-07-24 01:22:44.700 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-functional-qa-analyst-en-san-jose-ID-1571543
+2025-07-24 01:22:44.700 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Engineer
+2025-07-24 01:22:44.700 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Wind River - San José, San José
+2025-07-24 01:22:44.700 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-engineer-en-san-jose-ID-1571544
+2025-07-24 01:22:44.700 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Engineer
+2025-07-24 01:22:44.700 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - L. L. Bean - San José, San José
+2025-07-24 01:22:44.700 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-engineer-en-san-jose-ID-1571028
+2025-07-24 01:22:44.700 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Lead
+2025-07-24 01:22:44.700 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Golabs - Alajuela, Alajuela
+2025-07-24 01:22:44.700 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-lead-en-alajuela-ID-1571065
+2025-07-24 01:22:44.701 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation - Api Tester
+2025-07-24 01:22:44.701 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Gsb - Heredia, Heredia
+2025-07-24 01:22:44.701 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-api-tester-en-heredia-ID-1571143
+2025-07-24 01:22:44.701 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation Engineer Ii (Uim)
+2025-07-24 01:22:44.701 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Experian - Heredia, Heredia
+2025-07-24 01:22:44.701 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-engineer-ii-uim-en-heredia-ID-1571754
+2025-07-24 01:22:44.701 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Mid Functional
+2025-07-24 01:22:44.701 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.701 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-mid-functional-en-san-jose-ID-1571816
+2025-07-24 01:22:44.701 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Mid/Senior Qa Manual Testers
+2025-07-24 01:22:44.701 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.701 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/mid-senior-qa-manual-testers-en-san-jose-ID-1571833
+2025-07-24 01:22:44.701 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Functional Qa Analyst
+2025-07-24 01:22:44.702 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Prodigious - Heredia, Heredia
+2025-07-24 01:22:44.702 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-functional-qa-analyst-en-heredia-ID-1571889
+2025-07-24 01:22:44.702 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Software Qa Engineer
+2025-07-24 01:22:44.702 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Sgf Global - San José, San José
+2025-07-24 01:22:44.702 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/software-qa-engineer-en-san-jose-ID-1570322
+2025-07-24 01:22:44.702 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Intermediate Qa Engineer
+2025-07-24 01:22:44.702 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Edify Software Consulting - Alajuela, Alajuela
+2025-07-24 01:22:44.702 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/intermediate-qa-engineer-en-alajuela-ID-1570394
+2025-07-24 01:22:44.702 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Engineer
+2025-07-24 01:22:44.702 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Wind River - San José, San José
+2025-07-24 01:22:44.702 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-engineer-en-san-jose-ID-1570534
+2025-07-24 01:22:44.702 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Software Engineer
+2025-07-24 01:22:44.702 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Hitachi Solutions Ltd - San José, San José
+2025-07-24 01:22:44.702 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-software-engineer-en-san-jose-ID-1569965
+2025-07-24 01:22:44.702 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Software Engineer
+2025-07-24 01:22:44.703 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Hitachi Solutions - San José, San José
+2025-07-24 01:22:44.703 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-software-engineer-en-san-jose-ID-1569986
+2025-07-24 01:22:44.703 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Engineer
+2025-07-24 01:22:44.703 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Prodigious - San José, San José
+2025-07-24 01:22:44.703 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-engineer-en-san-jose-ID-1570641
+2025-07-24 01:22:44.703 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation Engineer Ii (Batchsource)
+2025-07-24 01:22:44.703 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Experian - Heredia, Heredia
+2025-07-24 01:22:44.703 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-engineer-ii-batchsource-en-heredia-ID-1570674
+2025-07-24 01:22:44.703 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Automation Engineer (Analytics)
+2025-07-24 01:22:44.703 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Experian - Heredia, Heredia
+2025-07-24 01:22:44.703 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-automation-engineer-analytics-en-heredia-ID-1570676
+2025-07-24 01:22:44.703 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation Engineer Ii (Analytics)
+2025-07-24 01:22:44.703 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Experian - Heredia, Heredia
+2025-07-24 01:22:44.703 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-engineer-ii-analytics-en-heredia-ID-1570679
+2025-07-24 01:22:44.703 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Manual Qa - Quality Assurance Tester
+2025-07-24 01:22:44.703 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Colibri Teams - San José, San José
+2025-07-24 01:22:44.703 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/manual-qa-quality-assurance-tester-en-san-jose-ID-1570707
+2025-07-24 01:22:44.703 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Engineer
+2025-07-24 01:22:44.703 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Grupo Preseleccion Ely S.A. - San José, San José
+2025-07-24 01:22:44.704 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-engineer-en-san-jose-ID-1570745
+2025-07-24 01:22:44.704 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Client Services Qa Analyst Senior
+2025-07-24 01:22:44.704 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Experian - Heredia, Heredia
+2025-07-24 01:22:44.704 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/client-services-qa-analyst-senior-en-heredia-ID-1568210
+2025-07-24 01:22:44.704 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Junior Content And Qa Editor
+2025-07-24 01:22:44.704 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Nowdigitaltalent - San José, San José
+2025-07-24 01:22:44.704 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/junior-content-and-qa-editor-en-san-jose-ID-1568630
+2025-07-24 01:22:44.704 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Manager
+2025-07-24 01:22:44.704 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Prodigious - Heredia, Heredia
+2025-07-24 01:22:44.704 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-manager-en-heredia-ID-1568647
+2025-07-24 01:22:44.704 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Principal Qa Engineer (Automation)
+2025-07-24 01:22:44.704 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Prodigious - San José, San José
+2025-07-24 01:22:44.704 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/principal-qa-engineer-automation-en-san-jose-ID-1568649
+2025-07-24 01:22:44.704 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Engineer
+2025-07-24 01:22:44.704 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Prodigious - San José, San José
+2025-07-24 01:22:44.704 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-engineer-en-san-jose-ID-1568652
+2025-07-24 01:22:44.704 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Agent
+2025-07-24 01:22:44.704 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Softtek - Heredia, Heredia
+2025-07-24 01:22:44.705 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-agent-en-heredia-ID-1568809
+2025-07-24 01:22:44.705 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation Engineer- Heredia, Costa Rica
+2025-07-24 01:22:44.705 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Dxc Technology - San José, San José
+2025-07-24 01:22:44.705 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-engineer-heredia-costa-rica-en-san-jose-ID-1568881
+2025-07-24 01:22:44.705 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Automation Engineer
+2025-07-24 01:22:44.705 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.705 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-automation-engineer-en-san-jose-ID-1568970
+2025-07-24 01:22:44.705 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Engineer
+2025-07-24 01:22:44.705 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.705 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-engineer-en-san-jose-ID-1568976
+2025-07-24 01:22:44.705 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation
+2025-07-24 01:22:44.705 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Hirerising - San José, San José
+2025-07-24 01:22:44.705 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-en-san-jose-ID-1568999
+2025-07-24 01:22:44.705 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Advanced Technical Qa Engineer - 1615683
+2025-07-24 01:22:44.705 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Growth Acceleration Partners - San José, San José
+2025-07-24 01:22:44.705 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/advanced-technical-qa-engineer-1615683-en-san-jose-ID-1569033
+2025-07-24 01:22:44.705 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Software Qa Analyst Senior
+2025-07-24 01:22:44.705 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Experian - Heredia, Heredia
+2025-07-24 01:22:44.705 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/software-qa-analyst-senior-en-heredia-ID-1569050
+2025-07-24 01:22:44.705 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Engineer
+2025-07-24 01:22:44.705 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Prodigious - Alajuela, Alajuela
+2025-07-24 01:22:44.705 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-engineer-en-alajuela-ID-1569054
+2025-07-24 01:22:44.706 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Tester
+2025-07-24 01:22:44.706 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.706 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-tester-en-san-jose-ID-1569099
+2025-07-24 01:22:44.706 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Jr
+2025-07-24 01:22:44.706 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.706 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-jr-en-san-jose-ID-1569100
+2025-07-24 01:22:44.706 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Analyst - Remote
+2025-07-24 01:22:44.706 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Moody'S - Heredia, Heredia
+2025-07-24 01:22:44.706 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-analyst-remote-en-heredia-ID-1567329
+2025-07-24 01:22:44.706 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Engineer - Remote - Latin America
+2025-07-24 01:22:44.706 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Fullstack Labs - San José, San José
+2025-07-24 01:22:44.706 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-engineer-remote-latin-america-en-san-jose-ID-1567372
+2025-07-24 01:22:44.706 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Data Qa
+2025-07-24 01:22:44.706 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.706 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-data-qa-en-san-jose-ID-1567895
+2025-07-24 01:22:44.706 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Engineer
+2025-07-24 01:22:44.707 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Cloudpay - San José, San José
+2025-07-24 01:22:44.707 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-engineer-en-san-jose-ID-1565293
+2025-07-24 01:22:44.707 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation Engineer
+2025-07-24 01:22:44.707 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Datasite - San José, San José
+2025-07-24 01:22:44.707 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-engineer-en-san-jose-ID-1565565
+2025-07-24 01:22:44.707 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Manual Qa Engineer
+2025-07-24 01:22:44.707 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - Heredia, Heredia
+2025-07-24 01:22:44.707 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-manual-qa-engineer-en-heredia-ID-1565595
+2025-07-24 01:22:44.707 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Ar Training & Qa Lead - Finance, Global Ar Academy
+2025-07-24 01:22:44.707 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Amzn Support Srvcs Costa Rica - Heredia, Heredia
+2025-07-24 01:22:44.707 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/ar-training-qa-lead-finance-global-ar-academy-en-heredia-ID-1565746
+2025-07-24 01:22:44.707 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa (8457)
+2025-07-24 01:22:44.707 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.707 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-8457-en-san-jose-ID-1565998
+2025-07-24 01:22:44.707 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Engineer
+2025-07-24 01:22:44.707 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Dxc Technology - San José, San José
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-engineer-en-san-jose-ID-1566052
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Engineer-Remote
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Moody'S - Heredia, Heredia
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-engineer-remote-en-heredia-ID-1564878
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Training & Qa Analyst
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Dwellworks Costa Rica Ltd - San José, San José
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/training-qa-analyst-en-san-jose-ID-1566507
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Mid-Level Qa Agent
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Virtualmind - San José, San José
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/mid-level-qa-agent-en-san-jose-ID-1566578
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Agile Software Qa Engineer
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Hewlett Packard Enterprise - Heredia, Heredia
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/agile-software-qa-engineer-en-heredia-ID-1563800
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Software Engineer
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Hitachi Solutions - San José, San José
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-software-engineer-en-san-jose-ID-1563869
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation Engineer
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - First Factory, Inc. - Heredia, Heredia
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-engineer-en-heredia-ID-1563934
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Tester - Auxiliar En Sistemas
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Grupo Syntepro - San José, San José
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-tester-auxiliar-en-sistemas-en-san-jose-ID-1564110
+2025-07-24 01:22:44.708 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Functional Qa Engineer
+2025-07-24 01:22:44.709 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Palo Alto Networks - Heredia, Heredia
+2025-07-24 01:22:44.709 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/functional-qa-engineer-en-heredia-ID-1563141
+2025-07-24 01:22:44.709 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Automation Engineer Latam
+2025-07-24 01:22:44.709 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Bairesdev - San José, San José
+2025-07-24 01:22:44.709 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-automation-engineer-latam-en-san-jose-ID-1563376
+2025-07-24 01:22:44.709 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Engineer
+2025-07-24 01:22:44.709 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Lightforce Ortho - San José, San José
+2025-07-24 01:22:44.709 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-engineer-en-san-jose-ID-1564433
+2025-07-24 01:22:44.709 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation Engineer Ii (Uim)
+2025-07-24 01:22:44.709 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Experian - Heredia, Heredia
+2025-07-24 01:22:44.709 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-engineer-ii-uim-en-heredia-ID-1564448
+2025-07-24 01:22:44.709 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Manual
+2025-07-24 01:22:44.709 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Grupo Syntepro - San José, San José
+2025-07-24 01:22:44.709 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-manual-en-san-jose-ID-1564486
+2025-07-24 01:22:44.709 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Software Qa Analyst
+2025-07-24 01:22:44.709 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Trevipay - San José, San José
+2025-07-24 01:22:44.709 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/software-qa-analyst-en-san-jose-ID-1564497
+2025-07-24 01:22:44.709 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation Engineer
+2025-07-24 01:22:44.710 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Micro Focus - Heredia, Heredia
+2025-07-24 01:22:44.710 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-engineer-en-heredia-ID-1564585
+2025-07-24 01:22:44.710 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Software Qa Engineer
+2025-07-24 01:22:44.710 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Micro Focus - San José, San José
+2025-07-24 01:22:44.710 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/software-qa-engineer-en-san-jose-ID-1564592
+2025-07-24 01:22:44.710 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Analyst
+2025-07-24 01:22:44.710 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Softtek - Heredia, Heredia
+2025-07-24 01:22:44.710 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-analyst-en-heredia-ID-1564647
+2025-07-24 01:22:44.710 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation Engineer
+2025-07-24 01:22:44.710 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Micro Focus - San José, San José
+2025-07-24 01:22:44.710 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-engineer-en-san-jose-ID-1561681
+2025-07-24 01:22:44.710 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Test Engineer
+2025-07-24 01:22:44.710 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Ntt Data - Heredia, Heredia
+2025-07-24 01:22:44.710 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-test-engineer-en-heredia-ID-1561740
+2025-07-24 01:22:44.711 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation Engineer Ii
+2025-07-24 01:22:44.711 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Experian - Heredia, Heredia
+2025-07-24 01:22:44.711 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-engineer-ii-en-heredia-ID-1561863
+2025-07-24 01:22:44.711 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Tech, Qa Engineering
+2025-07-24 01:22:44.711 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Edwards Lifesciences - Cartago, Cartago
+2025-07-24 01:22:44.711 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/tech-qa-engineering-en-cartago-ID-1561943
+2025-07-24 01:22:44.711 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Software Qa Analyst
+2025-07-24 01:22:44.711 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Trevipay - San José, San José
+2025-07-24 01:22:44.711 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/software-qa-analyst-en-san-jose-ID-1561952
+2025-07-24 01:22:44.711 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Tester (Salesforce Marketing Cloud)
+2025-07-24 01:22:44.711 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Ibm - Heredia, Heredia
+2025-07-24 01:22:44.711 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-tester-salesforce-marketing-cloud-en-heredia-ID-1562358
+2025-07-24 01:22:44.711 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa
+2025-07-24 01:22:44.711 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Ey - San José, San José
+2025-07-24 01:22:44.711 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-en-san-jose-ID-1562466
+2025-07-24 01:22:44.711 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Software Engineer
+2025-07-24 01:22:44.711 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Hitachi Solutions Ltd - San José, San José
+2025-07-24 01:22:44.711 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-software-engineer-en-san-jose-ID-1561218
+2025-07-24 01:22:44.712 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Engineer
+2025-07-24 01:22:44.712 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Wind River - San José, San José
+2025-07-24 01:22:44.712 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-engineer-en-san-jose-ID-1562789
+2025-07-24 01:22:44.712 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Analyst - Manual Software Tester - Costa Rica
+2025-07-24 01:22:44.712 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Braintrust - San José, San José
+2025-07-24 01:22:44.712 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-analyst-manual-software-tester-costa-rica-en-san-jose-ID-1562974
+2025-07-24 01:22:44.712 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Manager - Manual Software Testing - Costa Rica
+2025-07-24 01:22:44.712 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Braintrust - San José, San José
+2025-07-24 01:22:44.712 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-manager-manual-software-testing-costa-rica-en-san-jose-ID-1562976
+2025-07-24 01:22:44.712 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Automation Software Engineer
+2025-07-24 01:22:44.712 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Golabs - Alajuela, Alajuela
+2025-07-24 01:22:44.712 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-automation-software-engineer-en-alajuela-ID-1560075
+2025-07-24 01:22:44.712 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Manual Software Engineer
+2025-07-24 01:22:44.712 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Golabs - Alajuela, Alajuela
+2025-07-24 01:22:44.712 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-manual-software-engineer-en-alajuela-ID-1560081
+2025-07-24 01:22:44.712 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Middle Qa Software Engineer
+2025-07-24 01:22:44.712 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Golabs - Alajuela, Alajuela
+2025-07-24 01:22:44.712 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/middle-qa-software-engineer-en-alajuela-ID-1560095
+2025-07-24 01:22:44.712 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Engineer
+2025-07-24 01:22:44.712 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Datasite - San José, San José
+2025-07-24 01:22:44.712 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-engineer-en-san-jose-ID-1558574
+2025-07-24 01:22:44.712 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation Engineer
+2025-07-24 01:22:44.713 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Global Services Business - Heredia, Heredia
+2025-07-24 01:22:44.713 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-engineer-en-heredia-ID-1558620
+2025-07-24 01:22:44.713 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Specialist
+2025-07-24 01:22:44.713 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Ibm - Heredia, Heredia
+2025-07-24 01:22:44.713 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-specialist-en-heredia-ID-1559059
+2025-07-24 01:22:44.713 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Mid Qa Automation
+2025-07-24 01:22:44.713 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Grupo Syntepro - San José, San José
+2025-07-24 01:22:44.713 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/mid-qa-automation-en-san-jose-ID-1559215
+2025-07-24 01:22:44.713 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Advanced Technical Qa Engineer - 1550520
+2025-07-24 01:22:44.713 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Growth Acceleration Partners - San José, San José
+2025-07-24 01:22:44.713 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/advanced-technical-qa-engineer-1550520-en-san-jose-ID-1559253
+2025-07-24 01:22:44.713 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Creative Qa Analyst - Ta 2082
+2025-07-24 01:22:44.713 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Prodigious - San José, San José
+2025-07-24 01:22:44.713 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/creative-qa-analyst-ta-2082-en-san-jose-ID-1559265
+2025-07-24 01:22:44.713 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation (Cr)
+2025-07-24 01:22:44.713 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Grupo Myth - San José, San José
+2025-07-24 01:22:44.713 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-cr-en-san-jose-ID-1559292
+2025-07-24 01:22:44.713 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Engineer, Sr Qa (Global Post Market Cis) Job
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Boston Scientific Corporation - Alajuela, Alajuela
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/engineer-sr-qa-global-post-market-cis-job-en-alajuela-ID-1559293
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Maven Workforce Pvt. Ltd - San José, San José
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-en-san-jose-ID-1556877
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Junior Qa Tester/Analyst / Remote
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Sgf Global - San José, San José
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/junior-qa-tester-analyst-remote-en-san-jose-ID-1556885
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Tester
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Grupo Syntepro - San José, San José
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-tester-en-san-jose-ID-1557075
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Specialist - Hg0418
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Hangar Worldwide - Heredia, Heredia
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-specialist-hg-0418-en-heredia-ID-1557146
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Lead
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-lead-en-san-jose-ID-1558007
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Functional Qa Mid
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/functional-qa-mid-en-san-jose-ID-1558039
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Automation
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-automation-en-san-jose-ID-1558040
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Mid/Sr. Qa Automation
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/mid-sr-qa-automation-en-san-jose-ID-1558082
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Mid. Qa Tester Data
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/mid-qa-tester-data-en-san-jose-ID-1558085
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Mid Qa Automation
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.714 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/mid-qa-automation-en-san-jose-ID-1558138
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Mid-Level / Senior Qa Analyst - Remote - Latin
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Fullstack Labs - San José, San José
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/mid-level-senior-qa-analyst-remote-latin-en-san-jose-ID-1558187
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Manual Qa Tester
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Dxc Technology - San José, San José
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/manual-qa-tester-en-san-jose-ID-1558290
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Engineer
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Underwriting Solutions - San José, San José
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-engineer-en-san-jose-ID-1558506
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Software Developent Qa
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Experian - Heredia, Heredia
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-software-developent-qa-en-heredia-ID-1557680
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Engineer
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Crg Solutions - San José, San José
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-engineer-en-san-jose-ID-1557897
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Senior
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-senior-en-san-jose-ID-1557997
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Lead Qa
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/lead-qa-en-san-jose-ID-1555545
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Data
+2025-07-24 01:22:44.715 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.716 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-data-en-san-jose-ID-1555731
+2025-07-24 01:22:44.716 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Mid Qa Functional (7765)
+2025-07-24 01:22:44.716 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.716 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/mid-qa-functional-7765-en-san-jose-ID-1555750
+2025-07-24 01:22:44.716 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Engineer
+2025-07-24 01:22:44.716 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Verisk - San José, San José
+2025-07-24 01:22:44.716 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-engineer-en-san-jose-ID-1555835
+2025-07-24 01:22:44.716 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Mobile Engineer
+2025-07-24 01:22:44.716 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Udersol - San José, San José
+2025-07-24 01:22:44.716 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-mobile-engineer-en-san-jose-ID-1555889
+2025-07-24 01:22:44.716 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Rcs Qa Specialist - Portuguese, Screening
+2025-07-24 01:22:44.716 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Amazon Support Services Costa Rica Srl - B20 - San José, San José
+2025-07-24 01:22:44.716 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/rcs-qa-specialist-portuguese-screening-en-san-jose-ID-1555900
+2025-07-24 01:22:44.716 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation
+2025-07-24 01:22:44.716 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Spectrum Talent Management - San José, San José
+2025-07-24 01:22:44.716 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-en-san-jose-ID-1555905
+2025-07-24 01:22:44.716 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Engineer
+2025-07-24 01:22:44.716 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.716 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-engineer-en-san-jose-ID-1556036
+2025-07-24 01:22:44.716 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Mid Qa Automation (7872)
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/mid-qa-automation-7872-en-san-jose-ID-1556043
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Consultor Qa Tester
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Freeway Consulting - San José, San José
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/consultor-qa-tester-en-san-jose-ID-1556136
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Automation
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-automation-en-san-jose-ID-1556171
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Mobile Qa
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/mobile-qa-en-san-jose-ID-1556276
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Staff Or Senior Qa Automation Engineer - 2037883
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Growth Acceleration Partners - Alajuela, Alajuela
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/staff-or-senior-qa-automation-engineer-2037883-en-alajuela-ID-1554668
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Software Tester/Software Engineer In Test
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Hitachi Solutions Ltd - San José, San José
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-software-tester-software-engineer-in-test-en-san-jose-ID-1554819
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Grupo Syntepro - San José, San José
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-en-san-jose-ID-1555001
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Automation Engineer
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-automation-engineer-en-san-jose-ID-1555132
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Manual Qa
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.717 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/manual-qa-en-san-jose-ID-1555144
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Engineer, Enterprise Systems
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Smartsheet - San José, San José
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-engineer-enterprise-systems-en-san-jose-ID-1555286
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Engineer (Automation/Manual)
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - Heredia, Heredia
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-engineer-automation-manual-en-heredia-ID-1554562
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation Ii
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Experian - Heredia, Heredia
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-ii-en-heredia-ID-1553729
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Lead
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Prodigious - Heredia, Heredia
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-lead-en-heredia-ID-1553815
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Lead Qa Engineer
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Baasi - San José, San José
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/lead-qa-engineer-en-san-jose-ID-1553845
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation Engineer
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Datasite - San José, San José
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-engineer-en-san-jose-ID-1553944
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Engineer
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Wind River - San José, San José
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-engineer-en-san-jose-ID-1553958
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Functional Qa Analyst
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Prodigious - Heredia, Heredia
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/functional-qa-analyst-en-heredia-ID-1553961
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation/Manual Engineer- Remote - Latin
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Fullstack Labs - San José, San José
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-manual-engineer-remote-latin-en-san-jose-ID-1553975
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Software Qa - Big Data
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Experian - Heredia, Heredia
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/software-qa-big-data-en-heredia-ID-1554051
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Ar Qa Analyst
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Amzn Support Srvcs Costa Rica - San José, San José
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/ar-qa-analyst-en-san-jose-ID-1554183
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Spectrum Talent Management - San José, San José
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-en-san-jose-ID-1553481
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Engineer
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Prodigious - San José, San José
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-engineer-en-san-jose-ID-1552403
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Functional Qa Analyst
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Prodigious - San José, San José
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-functional-qa-analyst-en-san-jose-ID-1552404
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - S4 Liderazgo Qa
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Ey - San José, San José
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/s-4-liderazgo-qa-en-san-jose-ID-1552717
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Automation Engineer
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Snap Finance - Alajuela, Alajuela
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-automation-engineer-en-alajuela-ID-1552743
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Analyst - Manual Software Tester Costa Rica Only
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Braintrust - San José, San José
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-analyst-manual-software-tester-costa-rica-only-en-san-jose-ID-1551676
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Manager - Manual Software Testing Costa Rica Only
+2025-07-24 01:22:44.718 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Braintrust - San José, San José
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-manager-manual-software-testing-costa-rica-only-en-san-jose-ID-1551677
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Tester
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Grupo Syntepro - Alajuela, Alajuela
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-tester-en-alajuela-ID-1552099
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation Developer
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Spectrum Talent Management - Alajuela, Alajuela
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-developer-en-alajuela-ID-1551094
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Automation Engineer
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Growth Acceleration Partners - San José, San José
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-automation-engineer-en-san-jose-ID-1551145
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Manual Qa Tester
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Fusionhit - Heredia, Heredia
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-manual-qa-tester-en-heredia-ID-1551194
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Engineer
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Wind River - San José, San José
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-engineer-en-san-jose-ID-1550710
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Automation Engineer
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Virtualmind - San José, San José
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-automation-engineer-en-san-jose-ID-1551235
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Interns - Liberia
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - Liberia, Guanacaste
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-interns-liberia-en-liberia-ID-1551254
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Data Qa Analyst
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Experian - Heredia, Heredia
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-data-qa-analyst-en-heredia-ID-1548900
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Software Support
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Officespace Software - San José, San José
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-software-support-en-san-jose-ID-1549019
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Manager Sr, Supplier Qa
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Boston Scientific Corporation - Heredia, Heredia
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/manager-sr-supplier-qa-en-heredia-ID-1549300
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Manual Tester - Remote, Full-Time
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Bluelight Consulting - San José, San José
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-manual-tester-remote-full-time-en-san-jose-ID-1549667
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Software Engineer
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Hitachi Solutions - San José, San José
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-software-engineer-en-san-jose-ID-1549791
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Software Engineer
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Hitachi Solutions Ltd - San José, San José
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-software-engineer-en-san-jose-ID-1549806
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Ds-43 Qa Senior Engineer Automation
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Grupo Syntepro - San José, San José
+2025-07-24 01:22:44.719 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/ds-43-qa-senior-engineer-automation-en-san-jose-ID-1550028
+2025-07-24 01:22:44.720 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Automation Engineer
+2025-07-24 01:22:44.720 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Bairesdev - Heredia, Heredia
+2025-07-24 01:22:44.720 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-automation-engineer-en-heredia-ID-1547676
+2025-07-24 01:22:44.720 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Staff 2 Qa
+2025-07-24 01:22:44.720 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Ey - San José, San José
+2025-07-24 01:22:44.720 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/staff-2-qa-en-san-jose-ID-1547884
+2025-07-24 01:22:44.720 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Networking Qa Engineer
+2025-07-24 01:22:44.720 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Hewlett Packard Enterprise - Heredia, Heredia
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/networking-qa-engineer-en-heredia-ID-1548020
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Sdet Qa
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qat Global Cr - Heredia, Heredia
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/sdet-qa-en-heredia-ID-1548022
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Engineer
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Wind River - San José, San José
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-engineer-en-san-jose-ID-1548072
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Lead Manual Qa Tester
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Fusionhit - Heredia, Heredia
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/lead-manual-qa-tester-en-heredia-ID-1548120
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Functional Qa Analyst
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Prodigious - San José, San José
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-functional-qa-analyst-en-san-jose-ID-1548156
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa & Reporting Professional
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Bacardi - San José, San José
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-reporting-professional-en-san-jose-ID-1548230
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Automation Engineer
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Bairesdev - Liberia, Guanacaste
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-automation-engineer-en-liberia-ID-1548274
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Automation Engineer
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Bairesdev - San José, San José
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-automation-engineer-en-san-jose-ID-1547525
+2025-07-24 01:22:44.721 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Engineer (Automation Testing)
+2025-07-24 01:22:44.722 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Datasite - San José, San José
+2025-07-24 01:22:44.722 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-engineer-automation-testing-en-san-jose-ID-1546704
+2025-07-24 01:22:44.722 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Engineer
+2025-07-24 01:22:44.722 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Devlane - San José, San José
+2025-07-24 01:22:44.722 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-engineer-en-san-jose-ID-1546848
+2025-07-24 01:22:44.722 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Automation (Js/Node)
+2025-07-24 01:22:44.722 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - Heredia, Heredia
+2025-07-24 01:22:44.722 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-automation-js-node-en-heredia-ID-1546954
+2025-07-24 01:22:44.722 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Engineer
+2025-07-24 01:22:44.722 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Mev - San José, San José
+2025-07-24 01:22:44.722 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-engineer-en-san-jose-ID-1547025
+2025-07-24 01:22:44.722 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Software Qa Engineer - Intermediate
+2025-07-24 01:22:44.722 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Equifax - San José, San José
+2025-07-24 01:22:44.722 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/software-qa-engineer-intermediate-en-san-jose-ID-1546056
+2025-07-24 01:22:44.722 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation Engineer (Junior, Mid And Senior
+2025-07-24 01:22:44.722 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Micro Focus - San José, San José
+2025-07-24 01:22:44.722 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-engineer-junior-mid-and-senior-en-san-jose-ID-1546148
+2025-07-24 01:22:44.722 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Engineer - Hg0409
+2025-07-24 01:22:44.722 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Hangar Worldwide - Heredia, Heredia
+2025-07-24 01:22:44.722 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-engineer-hg-0409-en-heredia-ID-1546257
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Mid/Senior Qa Automation
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/mid-senior-qa-automation-en-san-jose-ID-1546292
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Engineer Ii
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-engineer-ii-en-san-jose-ID-1546293
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Manual Junior
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Grupo Syntepro - San José, San José
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-manual-junior-en-san-jose-ID-1546329
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Advanced Qa Automation Engineer
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Growth Acceleration Partners - San José, San José
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/advanced-qa-automation-engineer-en-san-jose-ID-1546377
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Senior Qa Automation Engineer
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Growth Acceleration Partners - San José, San José
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/senior-qa-automation-engineer-en-san-jose-ID-1546382
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Advanced Qa Engineer
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Growth Acceleration Partners - San José, San José
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/advanced-qa-engineer-en-san-jose-ID-1546384
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Test Engineer
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - International Talent Resources Inc. (Itr) - San José, San José
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-test-engineer-en-san-jose-ID-1545708
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Entry Level Qa Tester
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Soin Soluciones Integrales - San José, San José
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/entry-level-qa-tester-en-san-jose-ID-1545723
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Jr. Analyst
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Havas Group - Costa Rica
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-jr-analyst-en-costa-rica-ID-1545754
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation Engineer
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Micro Focus - San José, San José
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-engineer-en-san-jose-ID-1545851
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Engineer
+2025-07-24 01:22:44.723 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Micro Focus - San José, San José
+2025-07-24 01:22:44.724 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-engineer-en-san-jose-ID-1545860
+2025-07-24 01:22:44.724 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation Engineer
+2025-07-24 01:22:44.724 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Micro Focus - San José, San José
+2025-07-24 01:22:44.724 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-engineer-en-san-jose-ID-1545882
+2025-07-24 01:22:44.724 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation - Api Tester
+2025-07-24 01:22:44.724 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Global Services Business - Heredia, Heredia
+2025-07-24 01:22:44.724 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-api-tester-en-heredia-ID-1545914
+2025-07-24 01:22:44.724 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Automation Engineer (Appium, Javascript, Ios
+2025-07-24 01:22:44.724 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Modus Create - San José, San José
+2025-07-24 01:22:44.724 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-automation-engineer-appium-javascript-ios-en-san-jose-ID-1547189
+2025-07-24 01:22:44.724 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Software Tester/Software Engineer In Test
+2025-07-24 01:22:44.724 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Hitachi Solutions Ltd - San José, San José
+2025-07-24 01:22:44.724 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-software-tester-software-engineer-in-test-en-san-jose-ID-1547225
+2025-07-24 01:22:44.724 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Qa Software Tester/Software Engineer In Test
+2025-07-24 01:22:44.724 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Hitachi Solutions - San José, San José
+2025-07-24 01:22:44.724 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/qa-software-tester-software-engineer-in-test-en-san-jose-ID-1547269
+2025-07-24 01:22:44.724 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Mid. Qa Automation
+2025-07-24 01:22:44.724 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Encora - San José, San José
+2025-07-24 01:22:44.724 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - https://www.buscojobs.cr/mid-qa-automation-en-san-jose-ID-1547284

@@ -1,5 +1,5 @@
 package web_driver_configuration;
-
+import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.PageLoadStrategy;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -21,7 +21,6 @@ public class WebDriverFactory {
 
         switch(browser){
             case CHROME :
-                System.setProperty("webdriver.chrome.driver", config.getProperty("driverLocation"));
                 ChromeOptions chromeOptions = new ChromeOptions();
                 chromeOptions.setPageLoadStrategy(PageLoadStrategy.NONE);
                 chromeOptions.addArguments(new String[]{"disable-infobars"});
@@ -29,12 +28,13 @@ public class WebDriverFactory {
                 chromeOptions.addArguments(new String[]{"--disable-extensions"});
                 chromeOptions.addArguments(new String[]{"--ignore-certificate-errors"});
                 chromeOptions.addArguments("--remote-allow-origins=*");
-                chromeOptions.addArguments("--user-data-dir="+getChromeUserDataPath());
-                chromeOptions.addArguments("--profile-directory=Default");
+//                chromeOptions.addArguments("--user-data-dir="+getChromeUserDataPath());
+//                chromeOptions.addArguments("--profile-directory=Default");
                 ChromeDriver chrome;
 
                 //Try to initialize ChromeDriver with chromeOptions if something fail with chromeOptions, start a default ChromeDriver
                 try {
+                    WebDriverManager.chromedriver().setup();
                     chrome = new ChromeDriver(chromeOptions);
                 }catch (Exception ex){
                     new ChromeDriver().quit();
