@@ -15,7 +15,7 @@ public class IndeedPage extends BasePage {
 
     public void searchJobName(String job) throws Exception{
         driver.findElement(By.xpath("//input[@id='text-input-what']")).sendKeys(job);
-        driver.findElement(By.xpath("//button[@class='yosegi-InlineWhatWhere-primaryButton']")).click();
+        driver.findElement(By.xpath("//button[@type='submit']")).click();
         waitForPage();
     }
 

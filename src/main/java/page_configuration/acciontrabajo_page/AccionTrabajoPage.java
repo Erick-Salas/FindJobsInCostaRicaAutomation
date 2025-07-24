@@ -3,8 +3,11 @@ package page_configuration.acciontrabajo_page;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import page_configuration.BasePage;
 
+import java.time.Duration;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -13,7 +16,11 @@ public class AccionTrabajoPage extends BasePage {
 
     //Search a job name in the profession field and click on search jobs button
     public void searchJobInInputField(String job){
-        driver.findElement(By.xpath("//input[contains(@placeholder, 'profesi')]")).sendKeys(job);
+        waitForPage();
+        WebElement element = (new WebDriverWait(driver, Duration.ofSeconds(20)))
+                .until(ExpectedConditions.elementToBeClickable(By.xpath("//input[contains(@placeholder, 'profesi')]")));
+        element.sendKeys(job);
+
         driver.findElement(By.xpath("//input[@value='buscar empleos']")).click();
         waitForPage();
         waitFewSec(3);
