@@ -56,6 +56,8 @@ The report contains the name of the job found, the name of the company and the U
 
 - These automations were tested using Windows OS.
 
+- If you want to run all the automations that can be run, you can right click the file suite.xml in resources > suite.xml the click in Run ...
+
 # Technologies used:
 - Java
 - Selenium
