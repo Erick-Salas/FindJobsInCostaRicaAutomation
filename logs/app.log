@@ -1,2 +1,67 @@
-2025-07-24 14:14:10.575 [main] INFO  UiWebAutomations.jobs_websites.tecoloco.JobSearchInTecolocoWebPageTest - Page: https://www.tecoloco.co.cr/
-2025-07-24 14:14:16.090 [main] INFO  UiWebAutomations.jobs_websites.tecoloco.JobSearchInTecolocoWebPageTest - Job name searched: qa
+2025-07-24 15:13:41.466 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Page: https://www.buscojobs.cr/
+2025-07-24 15:13:42.267 [main] INFO  UiWebAutomations.jobs_websites.buscojobs.JobSearchInBuscoJobsWebPageTest - Job name searched: qa
+2025-07-24 15:14:05.778 [main] INFO  UiWebAutomations.jobs_websites.elempleo.JobSearchInElempleoWebPageTest - Page: https://www.elempleo.com/cr/cross
+2025-07-24 15:14:09.032 [main] INFO  UiWebAutomations.jobs_websites.elempleo.JobSearchInElempleoWebPageTest - Job name searched: qa
+2025-07-24 15:14:25.472 [main] INFO  UiWebAutomations.jobs_websites.elempleo.JobSearchInElempleoWebPageTest - Qa analyst jr
+2025-07-24 15:14:25.472 [main] INFO  UiWebAutomations.jobs_websites.elempleo.JobSearchInElempleoWebPageTest - Softtek Tecnología en información
+2025-07-24 15:14:25.472 [main] INFO  UiWebAutomations.jobs_websites.elempleo.JobSearchInElempleoWebPageTest - https://www.elempleo.com/cr/ofertas-trabajo/qa-analyst-jr/868903?trabajo=qa
+2025-07-24 15:14:32.392 [main] INFO  UiWebAutomations.jobs_websites.jooble.JobSearchInJoobleWebPageTest - Page: https://cr.jooble.org/
+2025-07-24 15:14:37.635 [main] INFO  UiWebAutomations.jobs_websites.jooble.JobSearchInJoobleWebPageTest - Job name searched: qa
+2025-07-24 15:15:03.154 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - Page: https://www.opcionempleo.co.cr/
+2025-07-24 15:15:05.173 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - Job name searched: qa
+2025-07-24 15:15:13.423 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - QA Automation
+2025-07-24 15:15:13.423 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - Grupo Syntepro
+2025-07-24 15:15:13.423 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - https://www.opcionempleo.co.cr/jobad/cr321d623f5d43a8f2e887bb1f859af20f
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - Qa Tester
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - Moody's
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - https://www.opcionempleo.co.cr/jobad/cr279e8c05124d650c9c452dde0f8040a2
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - Qa Jr
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - 
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - https://www.opcionempleo.co.cr/jobad/cr973c4d46614a032c7a6696d6f9b6b982
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - Qa Agent
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - 
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - https://www.opcionempleo.co.cr/jobad/cr7b2aa849deee2e47621dd461d061680a
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - Supplier QA Engineer I
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - 
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - https://www.opcionempleo.co.cr/jobad/crde3dc63dc18f4683d9b08132a499ee4a
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - Supplier QA Engineer I
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - 
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - https://www.opcionempleo.co.cr/jobad/cra69e1d238077748046c21265b1d9ce08
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - QA Instructor
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - 
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - https://www.opcionempleo.co.cr/jobad/crf6ec51c92a04034378b1f232724eec58
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - QA Tutor Reviewer
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - 
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - https://www.opcionempleo.co.cr/jobad/cr9d413f3d5591e95976cd352fa30e7870
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - QA Specialist
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - 
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - https://www.opcionempleo.co.cr/jobad/cr4b2b5c2b09734049f16d35def63080f2
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - QA Analyst: Data Reliability
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - 
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - https://www.opcionempleo.co.cr/jobad/crf09e5f6dceee6349129f4dd0d670857c
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - QA Analyst- Observability & Incident Management
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - 
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - https://www.opcionempleo.co.cr/jobad/cr0713dd8fbee3a010c35aa4ebc3fc063d
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - Senior QA Automation Engineer, Lamina
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - 
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - https://www.opcionempleo.co.cr/jobad/cr347275246c020e859b453c078a4e3038
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - QA Intern | Costa Rica
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - 
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - https://www.opcionempleo.co.cr/jobad/cr3bff9733ec6023e9969b85a32576ecd9
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - QA Intern | Costa Rica
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - 
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - https://www.opcionempleo.co.cr/jobad/cre53c72c424b2586afa3b303aa3ccef57
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - QA Engineer - COSTA RICA
+2025-07-24 15:15:13.424 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - 
+2025-07-24 15:15:13.425 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - https://www.opcionempleo.co.cr/jobad/cr636904b64b27bb42fcbbe1f70ac7701f
+2025-07-24 15:15:13.425 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - QA Engineer - COSTA RICA
+2025-07-24 15:15:13.425 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - 
+2025-07-24 15:15:13.425 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - https://www.opcionempleo.co.cr/jobad/cr8347be6b64831719f332bee3b2e13c96
+2025-07-24 15:15:13.425 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - Advanced Technical Qa Engineer
+2025-07-24 15:15:13.425 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - 
+2025-07-24 15:15:13.425 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - https://www.opcionempleo.co.cr/jobad/crffdf5a607a5171baa13ba3ba5abae4b3
+2025-07-24 15:15:13.425 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - Senior Qa Engineer
+2025-07-24 15:15:13.425 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - 
+2025-07-24 15:15:13.425 [main] INFO  UiWebAutomations.jobs_websites.opcionempleo.JobSearchInOpcionEmpleoWebPageTest - https://www.opcionempleo.co.cr/jobad/cr7b49da4e2c1ebdf05b4bf327d4ac40c9
+2025-07-24 15:15:20.589 [main] INFO  UiWebAutomations.jobs_websites.tecoloco.JobSearchInTecolocoWebPageTest - Page: https://www.tecoloco.co.cr/
+2025-07-24 15:15:23.322 [main] INFO  UiWebAutomations.jobs_websites.tecoloco.JobSearchInTecolocoWebPageTest - Job name searched: qa
