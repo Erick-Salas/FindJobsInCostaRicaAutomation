@@ -32,29 +32,31 @@ The report contains the name of the job found, the name of the company and the U
 # Important Notes:
 - These automations need the Google Chrome web browser to be able to run, it must be installed in your computer.
 
-- The chromedriver.exe file must be updated accordingly to the version of your Chrome browser. You can download the chromedriver.exe from this website: https://googlechromelabs.github.io/chrome-for-testing/. To know what version you need to download you can open your Chrome browser, go to Help > About Google Chrome. Once the chromedriver.exe is downloaded you need to placed it in the following project path: FindJobsInCostaRicaAutomation > web_driver > chrome_driver.
+- ~~The chromedriver.exe file must be updated accordingly to the version of your Chrome browser. You can download the chromedriver.exe from this website: https://googlechromelabs.github.io/chrome-for-testing/. To know what version you need to download you can open your Chrome browser, go to Help > About Google Chrome. Once the chromedriver.exe is downloaded you need to placed it in the following project path: FindJobsInCostaRicaAutomation > web_driver > chrome_driver.~~ The download of the web driver now is manage throw the bonigarcia library, so you don't have to download the web driver every time there is a new version.
 
-- To be able to run all the automations effectively you should close all Google Chrome windows before running the automations.
+- ~~To be able to run all the automations effectively you should close all Google Chrome windows before running the automations.~~ Due to new policy in google chrome now it is not posible to run the automation using your profile path, now you can run the automations without the necesity of closing the Chrome windows. 
 
 - The Costa Rica jobsites used for these automations are:
-  - https://acciontrabajo.co.cr/
+  - ~~https://acciontrabajo.co.cr/~~ Due to anti bot captchas this website cannot be scrapped.
   - https://www.buscojobs.cr/
   - https://www.elempleo.com/cr/cross
-  - https://cr.indeed.com/
+  - ~~https://cr.indeed.com/~~ Due to anti bot captchas this website cannot be scrapped.
   - https://cr.jooble.org/
   - https://www.opcionempleo.co.cr/
   - https://www.tecoloco.co.cr/
-  - https://www.linkedin.com/feed/
+  - ~~https://www.linkedin.com/feed/~~ Due to new Google Chrome policy that I refer to in the 3er bullet, now it is not possible to use your chrome profile and your cookies to be able to scrape data in your LinkedIn.
 
-- To run the LinkedIn automation effectively you must first login with your account after running the automation. When the automation opens the website link, it must enter your LinkedIn session.
+- ~~To run the LinkedIn automation effectively you must first login with your account after running the automation. When the automation opens the website link, it must enter your LinkedIn session.~~ This is not possible now.
 
 - The automations can fail if the user interface of the websites were modified, normally for UI automations is necessary maintenance of the automation scripts when this happens.
 
 - If the automations fail can be because the chromedriver.exe is not updated or because the websites were modified.
 
-- If your are using a different path to store the Default folder of Chrome, that can cause that LinkedIn automation fail (normally you can find it here: C:\Users\{your_user}\AppData\Local\Google\Chrome\User Data\)
+- ~~If your are using a different path to store the Default folder of Chrome, that can cause that LinkedIn automation fail (normally you can find it here: C:\Users\{your_user}\AppData\Local\Google\Chrome\User Data\)~~ This is not possible now.
 
 - These automations were tested using Windows OS.
+
+- If you want to run all the automations that can be run, you can right click the file suite.xml in resources > suite.xml the click in Run ...
 
 # Technologies used:
 - Java
